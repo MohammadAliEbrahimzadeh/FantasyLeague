@@ -1,0 +1,12 @@
+C:\Users\moham\source\repos\FantasyLeague\FantasyLeague.Api\bin\Debug\net6.0\FantasyLeague.Api.deps.json
+C:\Users\moham\source\repos\FantasyLeague\FantasyLeague.Api\bin\Debug\net6.0\FantasyLeague.Api.dll
+C:\Users\moham\source\repos\FantasyLeague\FantasyLeague.Api\bin\Debug\net6.0\FantasyLeague.Api.pdb
+C:\Users\moham\source\repos\FantasyLeague\FantasyLeague.Api\obj\Debug\net6.0\FantasyLeague.Api.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\FantasyLeague\FantasyLeague.Api\obj\Debug\net6.0\FantasyLeague.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\FantasyLeague\FantasyLeague.Api\obj\Debug\net6.0\FantasyLeague.Api.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\FantasyLeague\FantasyLeague.Api\obj\Debug\net6.0\FantasyLeague.Api.AssemblyInfo.cs
+C:\Users\moham\source\repos\FantasyLeague\FantasyLeague.Api\obj\Debug\net6.0\FantasyLeague.Api.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\FantasyLeague\FantasyLeague.Api\obj\Debug\net6.0\FantasyLeague.Api.dll
+C:\Users\moham\source\repos\FantasyLeague\FantasyLeague.Api\obj\Debug\net6.0\refint\FantasyLeague.Api.dll
+C:\Users\moham\source\repos\FantasyLeague\FantasyLeague.Api\obj\Debug\net6.0\FantasyLeague.Api.pdb
+C:\Users\moham\source\repos\FantasyLeague\FantasyLeague.Api\obj\Debug\net6.0\ref\FantasyLeague.Api.dll
